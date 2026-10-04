@@ -1,3 +1,3 @@
-# UAP Idaho — uapidaho.com
+# UAP Idaho
 
-Static site (plain HTML/CSS, no build step), served via GitHub Pages. Public-source field notes.
+Plain HTML and CSS, served with GitHub Pages.
